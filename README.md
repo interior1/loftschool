@@ -1,4 +1,4 @@
 
 
-Admin URL /admin.php
-DB dump - db.sql
+Admin URL vp1/admin.php
+DB dump - vp1/db.sql
